@@ -36,7 +36,13 @@ normal text
   * b
 
 1. One
-1. one
-1. two
-1. Two
-1. Three
+
+   1. one
+   2. two
+
+2. Two
+
+   1. one
+   2. two
+
+3. Three
